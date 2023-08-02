@@ -16,6 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+.about-us {
+  background-color: #ebebeb;
+  height: 890px;
+}
 .p-about {
   color: #99823d;
   font-family: Open Sans;
@@ -120,9 +124,7 @@ img {
   margin: 0 auto;
   flex-direction: column;
 }
-.information {
-  margin-top: 42px;
-}
+
 .ul-cards {
   display: flex;
   align-items: center;
@@ -196,4 +198,18 @@ img {
   width: 206px;
   height: 102px;
   padding-left: 44px;
+}
+.info {
+  margin-top: 58px;
+}
+.picture-frame {
+  display: flex;
+  gap: 102px;
+  top: 0;
+  position: absolute;
+}
+.line {
+  background: #fff;
+  width: 1px;
+  height: 275px;
 }
