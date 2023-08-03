@@ -199,6 +199,9 @@ img {
   height: 102px;
   padding-left: 44px;
 }
+.topic:nth-child(2) {
+  z-index: 1;
+}
 .info {
   margin-top: 58px;
 }
