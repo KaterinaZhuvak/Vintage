@@ -1,0 +1,36 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+.brands {
+  background-color: #ebebeb;
+  padding-top: 68px;
+  padding-bottom: 68px;
+
+  margin-top: 71px;
+  height: 175px;
+}
+.brand-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 1300px;
+}
+.brand-item {
+  margin: 0 35px;
+}
